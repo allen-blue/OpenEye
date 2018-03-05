@@ -61,7 +61,7 @@
 
 效果如下：
 
-![](https://github.com/kaikaixue/Eyepetizer/blob/master/image/category1.png) ![](https://github.com/kaikaixue/Eyepetizer/blob/master/image/category2.png) ![](https://github.com/kaikaixue/Eyepetizer/blob/master/image/category3.png) ![](https://github.com/kaikaixue/Eyepetizer/blob/master/image/category.gif)
+![](https://github.com/allen-blue/OpenEye/blob/master/image/category1.png) ![](https://github.com/allen-blue/OpenEye/blob/master/image/category2.png) ![](https://github.com/allen-blue/OpenEye/blob/master/image/category3.png) ![](https://github.com/allen-blue/OpenEye/blob/master/image/category.gif)
 
 #### 热门
 有了前面的基础，这个模块没什么好说的，一个tablayout搞定
