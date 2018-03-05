@@ -4,8 +4,7 @@
 
 [GitHub主页](https://github.com/kaikaixue/)
 
-#### APK[点击这里](https://github.com/kaikaixue/Eyepetizer/tree/master/apk)
-#### 百度云下载地址[点击这里](https://pan.baidu.com/s/1hsrOhBu)密码:ljt6
+#### APK[点击这里](https://github.com/allen-blue/OpenEye/tree/master/apk)
 
 - kotlin
 - rxjava
@@ -22,8 +21,7 @@
 效果如图：
 
 
-![](https://github.com/allen-blue/OpenEye/blob/master/image/home1.png)  ![]
-(https://github.com/allen-blue/OpenEye/blob/master/image/home_small.gif)
+![](https://github.com/allen-blue/OpenEye/blob/master/image/home1.png)  ![](https://github.com/allen-blue/OpenEye/blob/master/image/home_small.gif)
 
 该页主要仿了官方app的几个UI
 
