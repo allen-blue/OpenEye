@@ -13,7 +13,7 @@ import java.util.concurrent.TimeUnit
 
 
 /**
- * Created by xuekai on 2017/8/22.
+ * Created by csy on 2017/8/22.
  */
 class JumpShowTextView : FrameLayout {
 
