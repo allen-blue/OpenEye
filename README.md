@@ -77,11 +77,11 @@
 
 ### 关于我
 
-个人邮箱：3440395@qq.com
+个人邮箱：875670853@qq.com
 
-[GitHub主页](https://github.com/kaikaixue/)
+[GitHub主页](https://github.com/allen-blue/)
 
-[个人博客](http://xuekai.top)
+[个人博客](http://chensiyuan.top)
 
 ## 声明
 
