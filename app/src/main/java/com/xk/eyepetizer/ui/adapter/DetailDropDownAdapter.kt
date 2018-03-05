@@ -10,7 +10,7 @@ import com.xk.eyepetizer.ui.view.detail.DetailVideoCardView
 import com.xk.eyepetizer.ui.view.detail.ListEndView
 
 /**
- * Created by xuekai on 2017/8/28.
+ * Created by csy on 2017/8/28.
  */
 class DetailDropDownAdapter : RecyclerView.Adapter<DetailDropDownAdapter.ViewHolder>() {
 

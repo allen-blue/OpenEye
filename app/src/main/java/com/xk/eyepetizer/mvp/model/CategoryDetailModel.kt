@@ -6,7 +6,7 @@ import com.xk.eyepetizer.net.Network
 import io.reactivex.Observable
 
 /**
- * Created by xuekai on 2017/9/4.
+ * Created by csy on 2017/9/4.
  */
 class CategoryDetailModel {
 

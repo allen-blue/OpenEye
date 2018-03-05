@@ -6,7 +6,7 @@ import io.reactivex.disposables.CompositeDisposable
 import io.reactivex.disposables.Disposable
 
 /**
- * Created by xuekai on 2017/8/23.
+ * Created by csy on 2017/8/23.
  */
 var currentFragment = R.id.rb_home
 val tabsId = listOf(R.id.rb_home, R.id.rb_category, R.id.rb_hot)

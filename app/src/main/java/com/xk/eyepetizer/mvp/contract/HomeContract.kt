@@ -7,7 +7,7 @@ import com.xk.eyepetizer.mvp.model.bean.Item
 
 /**
  * 首页的契约接口，统一管理view和presenter中的接口，使得二者的功能一目了然
- * Created by xuekai on 2017/8/21.
+ * Created by csy on 2017/8/21.
  */
 interface HomeContract {
 

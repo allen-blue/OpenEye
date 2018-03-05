@@ -23,7 +23,7 @@ import kotlinx.android.synthetic.main.fragment_category.*
 import java.util.*
 
 /**
- * Created by xuekai on 2017/8/21.
+ * Created by csy on 2017/8/21.
  */
 class CategoryFragment : BaseFragment(tabId = tabsId[1]), CategoryContract.IView {
 

@@ -3,7 +3,7 @@ package com.xk.eyepetizer.mvp.model.bean
 import java.io.Serializable
 
 /**
- * Created by xuekai on 2017/8/20.
+ * Created by csy on 2017/8/20.
  */
 data class Item(val type: String, val data: Data?, val tag: String) : Serializable {
 

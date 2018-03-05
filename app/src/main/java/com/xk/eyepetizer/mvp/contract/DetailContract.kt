@@ -8,7 +8,7 @@ import io.reactivex.disposables.Disposable
 
 /**
  * 详情页的契约接口，统一管理view和presenter中的接口，使得二者的功能一目了然
- * Created by xuekai on 2017/8/25.
+ * Created by csy on 2017/8/25.
  */
 interface DetailContract {
     interface IView : BaseView<IPresenter> {

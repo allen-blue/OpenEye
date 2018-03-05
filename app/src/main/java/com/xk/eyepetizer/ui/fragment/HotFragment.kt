@@ -17,7 +17,7 @@ import kotlinx.android.synthetic.main.activity_main.*
 import kotlinx.android.synthetic.main.fragment_hot.*
 
 /**
- * Created by xuekai on 2017/8/21.
+ * Created by csy on 2017/8/21.
  */
 class HotFragment : BaseFragment(tabId = tabsId[2]), HotContract.IHotFragmentView {
     override fun setTabAndFragment(hotCategory: HotCategory) {

@@ -4,7 +4,7 @@ import com.xk.eyepetizer.mvp.contract.CategoryContract
 import com.xk.eyepetizer.mvp.model.CategoryModel
 
 /**
- * Created by xuekai on 2017/9/3.
+ * Created by csy on 2017/9/3.
  */
 class CategoryPresenter(view: CategoryContract.IView) : CategoryContract.IPresenter {
 

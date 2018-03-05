@@ -14,7 +14,7 @@ import com.xk.eyepetizer.timeFormat
 import kotlinx.android.synthetic.main.layout_detail_reply_card.view.*
 
 /**
- * Created by xuekai on 2017/8/26.
+ * Created by csy on 2017/8/26.
  */
 class DetailReplyView : RelativeLayout {
     constructor(context: Context?) : this(context, null)

@@ -8,7 +8,7 @@ import io.reactivex.Observable
 
 /**
  * 热门Model
- * Created by xuekai on 2017/9/4.
+ * Created by csy on 2017/9/4.
  */
 class HotModel {
 

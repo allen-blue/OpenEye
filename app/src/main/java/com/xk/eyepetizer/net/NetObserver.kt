@@ -5,7 +5,7 @@ import com.xk.eyepetizer.ui.base.BaseFragment
 import io.reactivex.observers.DisposableObserver
 
 /**
- * Created by xuekai on 2017/8/23.
+ * Created by csy on 2017/8/23.
  */
  class NetObserver<T> : DisposableObserver<T> {
 

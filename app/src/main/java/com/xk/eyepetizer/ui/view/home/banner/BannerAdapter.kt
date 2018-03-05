@@ -9,7 +9,7 @@ import com.xk.eyepetizer.ui.activity.DetailActivity
 
 
 /**
- * Created by xuekai on 2017/8/21.
+ * Created by csy on 2017/8/21.
  */
 class BannerAdapter : PagerAdapter() {
     var datas: ArrayList<Item>? = null

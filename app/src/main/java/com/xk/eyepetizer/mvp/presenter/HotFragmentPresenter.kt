@@ -6,7 +6,7 @@ import com.xk.eyepetizer.mvp.model.HotModel
 
 /**
  * 首页第三个tab
- * Created by xuekai on 2017/9/4.
+ * Created by csy on 2017/9/4.
  */
 class HotFragmentPresenter(view: HotContract.IHotFragmentView) : HotContract.IHotFragmentPresenter {
     override fun requestHotCategory() {

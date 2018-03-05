@@ -10,7 +10,7 @@ import com.xk.eyepetizer.mvp.model.bean.Item
 import kotlinx.android.synthetic.main.layout_detail_reply_title_card.view.*
 
 /**
- * Created by xuekai on 2017/8/26.
+ * Created by csy on 2017/8/26.
  */
 class DetailReplyTitleView : LinearLayout {
     constructor(context: Context?) : this(context, null)

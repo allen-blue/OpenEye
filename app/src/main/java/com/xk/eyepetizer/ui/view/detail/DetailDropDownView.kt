@@ -12,7 +12,7 @@ import kotlinx.android.synthetic.main.layout_detail_drop_down.view.*
 
 /**
  * 详情页点击某个title后出现的recyclerview/评论的recyclerview]
- * Created by xuekai on 2017/8/27.
+ * Created by csy on 2017/8/27.
  */
 class DetailDropDownView : RelativeLayout {
     constructor(context: Context?) : this(context, null)

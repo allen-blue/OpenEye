@@ -4,7 +4,7 @@ import android.content.Context
 import android.util.DisplayMetrics
 
 /**
- * Created by xuekai on 2017/8/21.
+ * Created by csy on 2017/8/21.
  */
 object DisplayManager {
 

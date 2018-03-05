@@ -28,7 +28,7 @@ import java.text.SimpleDateFormat
 import java.util.*
 
 /**
- * Created by xuekai on 2017/8/21.
+ * Created by csy on 2017/8/21.
  */
 class HomeFragment : BaseFragment(tabId = tabsId[0]), HomeContract.IView {
 

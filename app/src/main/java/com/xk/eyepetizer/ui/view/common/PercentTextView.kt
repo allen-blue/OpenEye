@@ -9,7 +9,7 @@ import com.xk.eyepetizer.R
 
 /**
  * 尺寸是ui图上的高度
- * Created by xuekai on 2017/4/1.
+ * Created by csy on 2017/4/1.
  */
 
 class PercentTextView : android.support.v7.widget.AppCompatTextView {

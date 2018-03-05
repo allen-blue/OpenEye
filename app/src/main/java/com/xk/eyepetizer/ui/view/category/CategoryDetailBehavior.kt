@@ -11,7 +11,7 @@ import android.view.View
 
 /**
  * 自定义一个behavior，实现分类详情页的headerimage效果
- * Created by xuekai on 2017/9/3.
+ * Created by csy on 2017/9/3.
  */
 class CategoryDetailBehavior(context: Context?, attrs: AttributeSet?) : CoordinatorLayout.Behavior<RecyclerView>(context, attrs) {
 

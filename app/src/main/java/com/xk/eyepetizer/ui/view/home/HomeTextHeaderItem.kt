@@ -9,7 +9,7 @@ import android.widget.FrameLayout
 import android.widget.TextView
 
 /**
- * Created by xuekai on 2017/8/23.
+ * Created by csy on 2017/8/23.
  */
 class HomeTextHeaderItem : FrameLayout {
 

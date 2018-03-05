@@ -5,7 +5,7 @@ import com.xk.eyepetizer.mvp.model.HotModel
 
 /**
  * 周排行、日排行。。。
- * Created by xuekai on 2017/9/4.
+ * Created by csy on 2017/9/4.
  */
 class HotCategoryPresenter(view: HotContract.IHotCategoryView) : HotContract.IHotCategoryPresenter {
     override fun requestData(url: String) {

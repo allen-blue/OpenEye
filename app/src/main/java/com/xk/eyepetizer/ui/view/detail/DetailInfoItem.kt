@@ -10,7 +10,7 @@ import com.xk.eyepetizer.durationFormat
 import kotlinx.android.synthetic.main.layout_detail_info.view.*
 
 /**
- * Created by xuekai on 2017/8/25.
+ * Created by csy on 2017/8/25.
  */
 val BTN_FAVORITES = 0
 val BTN_SHARE = 1

@@ -11,7 +11,7 @@ import com.xk.eyepetizer.ui.view.detail.DetailVideoCardView
 import java.net.URLDecoder
 
 /**
- * Created by xuekai on 2017/8/25.
+ * Created by csy on 2017/8/25.
  */
 class DetailAdapter : RecyclerView.Adapter<DetailAdapter.ViewHolder>() {
 

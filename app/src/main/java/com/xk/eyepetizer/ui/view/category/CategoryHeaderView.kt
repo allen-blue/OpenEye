@@ -15,7 +15,7 @@ import com.xk.eyepetizer.util.DisplayManager
 import kotlinx.android.synthetic.main.layout_category_header.view.*
 
 /**
- * Created by xuekai on 2017/9/3.
+ * Created by csy on 2017/9/3.
  */
 class CategoryHeaderView : RelativeLayout {
     var tvNameStopTop = 0

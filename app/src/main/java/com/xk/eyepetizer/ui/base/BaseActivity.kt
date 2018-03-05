@@ -5,7 +5,7 @@ import io.reactivex.disposables.CompositeDisposable
 import io.reactivex.disposables.Disposable
 
 /**
- * Created by xuekai on 2017/8/23.
+ * Created by csy on 2017/8/23.
  */
 abstract class BaseActivity : AppCompatActivity(), RxNetManager {
     protected val disposables = CompositeDisposable()

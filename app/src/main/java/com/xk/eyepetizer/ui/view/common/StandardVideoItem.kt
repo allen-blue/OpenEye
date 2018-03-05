@@ -17,7 +17,7 @@ import com.xk.eyepetizer.timePreFormat
 import kotlinx.android.synthetic.main.item_home_standard.view.*
 
 /**
- * Created by xuekai on 2017/8/23.
+ * Created by csy on 2017/8/23.
  */
 class StandardVideoItem : FrameLayout {
 

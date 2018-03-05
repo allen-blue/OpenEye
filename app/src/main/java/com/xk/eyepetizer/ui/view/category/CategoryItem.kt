@@ -9,7 +9,7 @@ import com.xk.eyepetizer.mvp.model.bean.Category
 import kotlinx.android.synthetic.main.layout_category_item.view.*
 
 /**
- * Created by xuekai on 2017/9/3.
+ * Created by csy on 2017/9/3.
  */
 class CategoryItem : FrameLayout {
 

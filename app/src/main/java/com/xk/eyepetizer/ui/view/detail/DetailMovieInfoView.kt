@@ -9,7 +9,7 @@ import com.xk.eyepetizer.R
 import kotlinx.android.synthetic.main.layout_detail_movie_info.view.*
 
 /**
- * Created by xuekai on 2017/8/25.
+ * Created by csy on 2017/8/25.
  */
 class DetailMovieInfoView : LinearLayout {
     constructor(context: Context?) : this(context, null)

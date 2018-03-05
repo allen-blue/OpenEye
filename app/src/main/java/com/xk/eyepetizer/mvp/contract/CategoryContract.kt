@@ -7,7 +7,7 @@ import java.util.*
 
 /**
  * 分类的契约接口，统一管理view和presenter中的接口，使得二者的功能一目了然
- * Created by xuekai on 2017/9/3.
+ * Created by csy on 2017/9/3.
  */
 interface CategoryContract {
     interface IView : BaseView<IPresenter> {

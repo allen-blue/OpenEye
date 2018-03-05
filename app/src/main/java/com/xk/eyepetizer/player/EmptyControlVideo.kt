@@ -9,7 +9,7 @@ import com.xk.eyepetizer.R
 
 /**
  * 无ui
- * Created by xuekai on 2017/8/22.
+ * Created by csy on 2017/8/22.
  */
 class EmptyControlVideo(context: Context?, attrs: AttributeSet?) : StandardGSYVideoPlayer(context, attrs) {
 

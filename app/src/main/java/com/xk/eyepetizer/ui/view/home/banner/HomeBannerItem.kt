@@ -15,7 +15,7 @@ import com.xk.eyepetizer.player.EmptyControlVideo
 import kotlinx.android.synthetic.main.item_home_banner.view.*
 
 /**
- * Created by xuekai on 2017/8/21.
+ * Created by csy on 2017/8/21.
  */
 class HomeBannerItem : FrameLayout {
     lateinit var data: Item

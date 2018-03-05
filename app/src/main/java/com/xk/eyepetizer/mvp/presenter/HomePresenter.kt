@@ -5,7 +5,7 @@ import com.xk.eyepetizer.mvp.model.HomeModel
 import com.xk.eyepetizer.mvp.model.bean.HomeBean
 
 /**
- * Created by xuekai on 2017/8/21.
+ * Created by csy on 2017/8/21.
  */
 class HomePresenter(view: HomeContract.IView) : HomeContract.IPresenter {
     val homeView: HomeContract.IView

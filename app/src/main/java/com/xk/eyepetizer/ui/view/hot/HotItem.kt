@@ -12,7 +12,7 @@ import com.xk.eyepetizer.mvp.model.bean.Item
 import kotlinx.android.synthetic.main.layout_hot_item.view.*
 
 /**
- * Created by xuekai on 2017/9/4.
+ * Created by csy on 2017/9/4.
  */
 class HotItem : FrameLayout {
     constructor(context: Context?) : this(context, null)

@@ -12,7 +12,7 @@ import com.xk.eyepetizer.ui.view.home.banner.HomeBanner
 import com.xk.eyepetizer.util.DisplayManager
 
 /**
- * Created by xuekai on 2017/8/23.
+ * Created by csy on 2017/8/23.
  */
 class HomeAdapter : RecyclerView.Adapter<HomeAdapter.ViewHolder>() {
 

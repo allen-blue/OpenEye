@@ -11,7 +11,7 @@ import com.xk.eyepetizer.ui.view.hot.HotItem
 import kotlinx.android.synthetic.main.layout_list_end.view.*
 
 /**
- * Created by xuekai on 2017/9/4.
+ * Created by csy on 2017/9/4.
  */
 class HotCategoryAdapter : RecyclerView.Adapter<HotCategoryAdapter.ViewHolder>() {
     val data: ArrayList<Item> by lazy { ArrayList<Item>() }

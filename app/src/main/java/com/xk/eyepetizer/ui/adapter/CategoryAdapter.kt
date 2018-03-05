@@ -11,7 +11,7 @@ import kotlinx.android.synthetic.main.layout_list_end.view.*
 import java.util.*
 
 /**
- * Created by xuekai on 2017/9/3.
+ * Created by csy on 2017/9/3.
  */
 class CategoryAdapter : RecyclerView.Adapter<CategoryAdapter.ViewHolder>() {
 

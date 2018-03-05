@@ -11,7 +11,7 @@ import com.xk.eyepetizer.util.DisplayManager
 import io.reactivex.disposables.Disposable
 
 /**
- * Created by xuekai on 2017/8/25.
+ * Created by csy on 2017/8/25.
  */
 class DetailPresenter(view: DetailContract.IView) : DetailContract.IPresenter {
 

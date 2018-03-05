@@ -16,7 +16,7 @@ import com.xk.eyepetizer.ui.adapter.HotCategoryAdapter
 import com.xk.eyepetizer.ui.base.BaseFragment
 
 /**
- * Created by xuekai on 2017/9/4.
+ * Created by csy on 2017/9/4.
  */
 class HotDetailFragment : BaseFragment, HotContract.IHotCategoryView {
 

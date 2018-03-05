@@ -5,7 +5,7 @@ import com.xk.eyepetizer.mvp.model.CategoryDetailModel
 import com.xk.eyepetizer.mvp.model.bean.Category
 
 /**
- * Created by xuekai on 2017/9/4.
+ * Created by csy on 2017/9/4.
  */
 class CategoryDetailPresenter(view: CategoryDetailContract.IView) : CategoryDetailContract.IPresenter {
 

@@ -13,7 +13,7 @@ import com.xk.eyepetizer.R
 import kotlinx.android.synthetic.main.layout_detail_author_info.view.*
 
 /**
- * Created by xuekai on 2017/8/25.
+ * Created by csy on 2017/8/25.
  */
 class DetailAuthorView : RelativeLayout {
     constructor(context: Context?) : this(context, null)

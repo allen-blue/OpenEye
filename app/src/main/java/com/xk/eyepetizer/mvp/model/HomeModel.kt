@@ -7,7 +7,7 @@ import io.reactivex.Observable
 
 /**
  * 首页Model，请求默认精选（无date是banner，每次加载更多，加载一条带date）
- * Created by xuekai on 2017/8/20.
+ * Created by csy on 2017/8/20.
  */
 class HomeModel {
 

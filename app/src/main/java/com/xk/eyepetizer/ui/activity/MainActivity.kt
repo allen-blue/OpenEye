@@ -13,7 +13,7 @@ import com.xk.eyepetizer.ui.fragment.HotFragment
 import kotlinx.android.synthetic.main.activity_main.*
 
 /**
- * Created by xuekai on 2017/8/20.
+ * Created by csy on 2017/8/20.
  */
 
 class MainActivity : BaseActivity() {

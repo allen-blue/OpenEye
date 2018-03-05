@@ -9,7 +9,7 @@ import com.xk.eyepetizer.R
 import kotlinx.android.synthetic.main.layout_list_end.view.*
 
 /**
- * Created by xuekai on 2017/8/26.
+ * Created by csy on 2017/8/26.
  */
 class ListEndView : FrameLayout {
     constructor(context: Context?) : this(context, null)

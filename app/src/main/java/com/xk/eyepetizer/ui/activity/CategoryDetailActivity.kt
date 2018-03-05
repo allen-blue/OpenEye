@@ -19,7 +19,7 @@ import com.xk.eyepetizer.util.DisplayManager
 import kotlinx.android.synthetic.main.activity_category_detail.*
 
 /**
- * Created by xuekai on 2017/9/3.
+ * Created by csy on 2017/9/3.
  */
 class CategoryDetailActivity : BaseActivity(), CategoryDetailContract.IView {
 

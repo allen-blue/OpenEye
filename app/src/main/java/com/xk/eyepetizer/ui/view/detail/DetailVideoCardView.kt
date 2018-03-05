@@ -12,7 +12,7 @@ import com.xk.eyepetizer.durationFormat
 import kotlinx.android.synthetic.main.layout_detail_video_card.view.*
 
 /**
- * Created by xuekai on 2017/8/26.
+ * Created by csy on 2017/8/26.
  */
 class DetailVideoCardView : RelativeLayout {
     constructor(context: Context?) : this(context, null)

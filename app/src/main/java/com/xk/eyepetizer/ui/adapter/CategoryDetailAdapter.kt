@@ -9,7 +9,7 @@ import com.xk.eyepetizer.ui.activity.DetailActivity
 import com.xk.eyepetizer.ui.view.common.StandardVideoItem
 
 /**
- * Created by xuekai on 2017/9/4.
+ * Created by csy on 2017/9/4.
  */
 class CategoryDetailAdapter : RecyclerView.Adapter<CategoryDetailAdapter.ViewHolder>() {
 

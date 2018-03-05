@@ -16,7 +16,7 @@ import com.xk.eyepetizer.util.DisplayManager
 
 
 /**
- * Created by xuekai on 2017/8/21.
+ * Created by csy on 2017/8/21.
  */
 class HomeBanner : FrameLayout {
 
