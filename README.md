@@ -2,7 +2,7 @@
 
 > **开眼视频**是一款精品短视频日报应用，该项目是用kotlin，借助已知的一些开眼接口写的一个仿《开眼App》，主要是为了学习kotlin和一些UI效果
 
-[GitHub主页](https://github.com/kaikaixue/)
+[GitHub主页](https://github.com/allen-blue/)
 
 #### APK[点击这里](https://github.com/allen-blue/OpenEye/tree/master/apk)
 
@@ -39,7 +39,7 @@
 
 效果如图：
 
-![](https://github.com/kaikaixue/Eyepetizer/blob/master/image/detail1.png) ![](https://github.com/kaikaixue/Eyepetizer/blob/master/image/recommend.png) ![](https://github.com/kaikaixue/Eyepetizer/blob/master/image/reply.png) ![](https://github.com/kaikaixue/Eyepetizer/blob/master/image/detail.gif)
+![](https://github.com/allen-blue/OpenEye/blob/master/image/detail1.png) ![](https://github.com/allen-blue/OpenEye/blob/master/image/recommend.png) ![](https://github.com/allen-blue/OpenEye/blob/master/image/reply.png) ![](https://github.com/allen-blue/OpenEye/blob/master/image/detail.gif)
 
 - item第一次加载的时候，文字跳跃出现，之后不会再跳跃
 - 查看更多相关视频
@@ -67,12 +67,12 @@
 
 效果如下：
 
-![](https://github.com/kaikaixue/Eyepetizer/blob/master/image/hot1.png) ![](https://github.com/kaikaixue/Eyepetizer/blob/master/image/hot.gif)
+![](https://github.com/allen-blue/OpenEye/blob/master/image/hot1.png) ![](https://github.com/allen-blue/OpenEyer/blob/master/image/hot.gif)
 
 
 ### API接口
 
-[点击查看](https://github.com/kaikaixue/Eyepetizer/blob/master/app/src/main/java/com/xk/eyepetizer/api)
+[点击查看](https://github.com/allen-blue/OpenEye/blob/master/app/src/main/java/com/xk/eyepetizer/api)
 
 ### 关于我
 
