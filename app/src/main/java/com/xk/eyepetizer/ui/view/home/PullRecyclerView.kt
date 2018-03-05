@@ -20,7 +20,7 @@ import com.xk.eyepetizer.R
 import com.xk.eyepetizer.ui.view.home.banner.HomeBanner
 
 /**
- * Created by xuekai on 2017/8/23.
+ * Created by csy on 2017/8/23.
  */
 class PullRecyclerView : RecyclerView {
     constructor(context: Context?) : this(context, null)
