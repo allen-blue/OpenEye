@@ -22,13 +22,14 @@
 效果如图：
 
 
-![](https://github.com/kaikaixue/Eyepetizer/blob/master/image/home1.png)  ![](https://github.com/kaikaixue/Eyepetizer/blob/master/image/home_small.gif)
+![](https://github.com/allen-blue/OpenEye/blob/master/image/home1.png)  ![]
+(https://github.com/allen-blue/OpenEye/blob/master/image/home_small.gif)
 
 该页主要仿了官方app的几个UI
 
-- 通过PageTransformer实现了ViewPager切换动画，代码[点击查看](https://github.com/kaikaixue/Eyepetizer/blob/master/app/src/main/java/com/xk/eyepetizer/ui/view/home/banner/HomeBannerTransformer.kt)
-- 自定义一个文字动画（轮播图上的两行文字，逐字出现），代码[点击查看](https://github.com/kaikaixue/Eyepetizer/blob/master/app/src/main/java/com/xk/eyepetizer/ui/view/common/JumpShowTextView.kt)(之前用ondraw的方法实现，结果发现当文字中有特殊字符的时候，宽度测量会有很大的偏差，所以用了新的方法：添加一个invisiable的textview用来占位，方法有些c粗暴，哈哈哈哈，有更好思路的同学欢迎提出)，旧代码在这里[点击查看](https://github.com/kaikaixue/Eyepetizer/blob/master/app/src/main/java/com/xk/eyepetizer/ui/view/common/JumpShowTextView1.kt)
-- RecyclerView下拉刷新，放大第一个item且带阻尼效果，代码[点击查看](https://github.com/kaikaixue/Eyepetizer/blob/master/app/src/main/java/com/xk/eyepetizer/ui/view/home/PullRecyclerView.kt)
+- 通过PageTransformer实现了ViewPager切换动画，代码[点击查看](https://github.com/allen-blue/OpenEye/blob/master/app/src/main/java/com/xk/eyepetizer/ui/view/home/banner/HomeBannerTransformer.kt)
+- 自定义一个文字动画（轮播图上的两行文字，逐字出现），代码[点击查看](https://github.com/allen-blue/OpenEye/blob/master/app/src/main/java/com/xk/eyepetizer/ui/view/common/JumpShowTextView.kt)(之前用ondraw的方法实现，结果发现当文字中有特殊字符的时候，宽度测量会有很大的偏差，所以用了新的方法：添加一个invisiable的textview用来占位，方法有些c粗暴，哈哈哈哈，有更好思路的同学欢迎提出)，旧代码在这里[点击查看](https://github.com/allen-blue/OpenEye/blob/master/app/src/main/java/com/xk/eyepetizer/ui/view/common/JumpShowTextView1.kt)
+- RecyclerView下拉刷新，放大第一个item且带阻尼效果，代码[点击查看](https://github.com/allen-blue/OpenEye/blob/master/app/src/main/java/com/xk/eyepetizer/ui/view/home/PullRecyclerView.kt)
 - Toolbar随当前item变化
 - 底部自动加载
 - ViewPage中有视频播放、图片展示两种类型
